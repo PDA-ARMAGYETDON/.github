@@ -6,10 +6,9 @@
 
 💵 **기간**
 
-2024.00.00 ~ 2024.00.00 - 기획 및 설계
-2024.00.00 ~ 2024.00.00 - 개발
+2024.07.26 ~ 2024.09.12
 
-💵 **이지 팀원 소개**
+💵 **팀원 소개**
 
 <table>
     <tr>
@@ -22,11 +21,11 @@
     </tr>
     <tr align=center>
         <td><a href='https://github.com/Elandland'>임찬솔</a></td>
-        <td><a href='https://github.com/Elandland'>이현주</a></td>
-        <td><a href='https://github.com/Elandland'>최경서</a></td>
-        <td><a href='https://github.com/Elandland'>하윤철</a></td>
-        <td><a href='https://github.com/Elandland'>이재인</a></td>
-        <td><a href='https://github.com/Elandland'>고유민</a></td>
+        <td><a href='https://github.com/Leehyeonju0219'>이현주</a></td>
+        <td><a href='https://github.com/kyeongseo90'>최경서</a></td>
+        <td><a href='https://github.com/Yoon-97'>하윤철</a></td>
+        <td><a href='https://github.com/JaeIn1'>이재인</a></td>
+        <td><a href='https://github.com/ymkdev'>고유민</a></td>
     </tr>
 </table>
 
