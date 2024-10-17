@@ -144,7 +144,10 @@ ARMAGYETDON(아마곗돈)은, 모임 투자 서비스입니다.
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
-## 📂시스템 아키텍처  
+## 📂ERD 및 시스템 아키텍처  
+
+**ERD**  
+<img src="https://github.com/user-attachments/assets/2758c181-e7f6-4f0d-9c03-f195cad90f3b" alt="image" width="700"/>
 
 **MSA 아키텍처**  
 <img src="https://github.com/user-attachments/assets/8877eaba-30ff-4d58-876c-09933dc68e24" alt="image" width="700"/>  
@@ -170,7 +173,7 @@ ARMAGYETDON(아마곗돈)은, 모임 투자 서비스입니다.
 | --- | ----------------------------- |
 |     | ![Mobile](./src/mob_main.png) |
 
-### 💵 개인 계좌개설
+### 💵 개인 계좌 개설
 
 |     | 모바일                        |
 | --- | ----------------------------- |
@@ -202,7 +205,7 @@ ARMAGYETDON(아마곗돈)은, 모임 투자 서비스입니다.
 | --- | ----------------------------- |
 |     | ![Mobile](./src/mob_main.png) |
 
-### 💵 모임 원칙/ 규칙 제안 / 매매 제안 
+### 💵 모임 원칙 / 규칙 제안 / 매매 제안 
 
 |     | 모바일                        |
 | --- | ----------------------------- |
@@ -228,7 +231,7 @@ ARMAGYETDON(아마곗돈)은, 모임 투자 서비스입니다.
 | --- | ----------------------------- |
 |     | ![Mobile](./src/mob_main.png) |
 
-### 💵 매수/매도 제안
+### 💵 매수 / 매도 제안
 
 |     | 모바일                        |
 | --- | ----------------------------- |
