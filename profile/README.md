@@ -161,97 +161,62 @@ ARMAGYETDON(아마곗돈)은, 모임 투자 서비스입니다.
 
 ### 💵 메인
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
+<img src="https://github.com/user-attachments/assets/52455f4b-7304-4801-a4df-ac148d4ffd0c" width="300"/>
+
 
 ## 회원관리
 
 ### 💵 회원가입
+<img src="https://github.com/user-attachments/assets/95fa5c5a-fb71-4c15-9015-8d7670dce8f7" width="300"/>
+<img src="https://github.com/user-attachments/assets/ee88771a-91ca-4ba5-b78b-9a5786e19667" width="300"/>
+<img src="https://github.com/user-attachments/assets/8778cff9-aff2-4d73-afbd-37bbab6f13e9" width="300"/>
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
 
 ### 💵 개인 계좌 개설
+<img src="https://github.com/user-attachments/assets/d16f3a08-0368-4761-8269-49c14c772419" width="300"/>
+<img src="https://github.com/user-attachments/assets/86af278e-c687-4c62-b1e6-5e106e11144d" width="300"/>
+<img src="https://github.com/user-attachments/assets/a148de78-daa0-4016-aeeb-a2356ec94449" width="300"/>
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
-
-### 💵 내 정보 
-
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |  
 
 ## 모임 
 
 ### 💵 모임 생성 
+<img src="https://github.com/user-attachments/assets/9626c0ce-e1b8-45e8-8e87-df2a6194aa6a" width="300"/>
+<img src="https://github.com/user-attachments/assets/1ae6a574-0019-44e6-aaeb-13b56d117ba4" width="300"/>
+<img src="https://github.com/user-attachments/assets/ec760354-a4db-4304-9e44-108560a93ed2" width="300"/>
+<img src="https://github.com/user-attachments/assets/0fd20f26-8e3b-4dc7-aba3-51d28a7f9320" width="300"/>
+<img src="https://github.com/user-attachments/assets/4668c4fd-6ecc-40b8-bd91-6f5286a2aca6" width="300"/>
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
 
-### 💵 매인 모임 페이지 
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |  
+### 💵 매인 모임 페이지 및 상세 페이지
+<img src="https://github.com/user-attachments/assets/c8442cda-8c6f-45da-af25-9852e24938cb" width="300"/>
+<img src="https://github.com/user-attachments/assets/3d6c6eba-0581-4483-b5b9-0be0bedbd8ed" width="300"/>
 
-### 💵 상세 포트폴리오  
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
-
-### 💵 모임 원칙 / 규칙 제안 / 매매 제안 
-
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |  
+### 💵 규칙 제안 / 매매 제안 
+<img src="https://github.com/user-attachments/assets/ff8f78d6-9c55-412a-9ce7-4ee25ea60f2e" width="300"/>
+<img src="https://github.com/user-attachments/assets/3d9c3e07-9ec0-4f87-af85-fcce0fc81683" width="300"/>
 
 ### 💵 채팅   
+<img src="https://github.com/user-attachments/assets/49000ebf-9107-43a9-8ac7-b595eb689e23" width="300"/>
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
-
-### 💵 주식 거래 내역 / 이체 내역
-
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
 
 ## 주식
-
-### 💵 호가창  
-
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
+<img src="https://github.com/user-attachments/assets/6c5babf2-1abe-4583-af2a-715dec6add5c" width="300"/>
+<img src="https://github.com/user-attachments/assets/98821635-2a1d-46a0-91cf-d516ed7de14a" width="300"/>
 
 ### 💵 매수 / 매도 제안
+<img src="https://github.com/user-attachments/assets/a0734568-9881-43c3-80dc-b55e7327309d" width="300"/>
+<img src="https://github.com/user-attachments/assets/e09664d9-09b5-4959-a4ea-ca8ae64e7387" width="300"/>
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
 
-## 순위
+## 순위 및 대시보드
 
-### 💵 순위
+### 💵 순위 및 대시보드
+<img src="https://github.com/user-attachments/assets/2cd7eed3-c395-4002-baaa-5f7cddbfbb15" width="300"/>
+<img src="https://github.com/user-attachments/assets/925b28a5-c304-4176-a75a-a4ec66529e45" width="300"/>
 
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |
-
-## 대시보드
-
-### 💵 대시보드
-
-|     | 모바일                        |
-| --- | ----------------------------- |
-|     | ![Mobile](./src/mob_main.png) |  
 
 
 ## 컨벤션
